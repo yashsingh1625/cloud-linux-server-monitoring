@@ -332,7 +332,7 @@ scripts/cleanup.sh
 
 # 👩‍💻 Author
 
-## Jaishree Chaure
+## Yashashwi Singh
 
 DevOps & Cloud Learning Journey 🚀
 
